@@ -1,0 +1,5 @@
+# lint js/ts files
+echo 🧿 Running file linter...
+npx lint-staged
+
+echo ✅ All pre-commit jobs are done
